@@ -58,6 +58,76 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create scalable and efficient REST APIs using FastAPI with data validation and error handling.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-03-31",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "text-processing",
+      "title": "Python Text Processing",
+      "description": "Master string manipulation, file I/O operations, and text analysis with practical text processing techniques.",
+      "path": "assignments/text-processing",
+      "dueDate": "2026-03-31",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "data-structures",
+      "title": "Data Structures in Python",
+      "description": "Master lists, dictionaries, sets, and tuples to choose the right data structure for different problems.",
+      "path": "assignments/data-structures",
+      "dueDate": "2026-03-31",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "data-visualization",
+      "title": "Python Data Visualization",
+      "description": "Master matplotlib and plotly to create professional, interactive data visualizations and communicate insights effectively.",
+      "path": "assignments/data-visualization",
+      "dueDate": "2026-03-31",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "statistics-python",
+      "title": "Statistics with Python",
+      "description": "Master statistical analysis and data manipulation with pandas and numpy to perform hypothesis testing and calculate probability distributions.",
+      "path": "assignments/statistics-python",
+      "dueDate": "2026-03-31",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
